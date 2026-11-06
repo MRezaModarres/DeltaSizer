@@ -2,6 +2,8 @@
 
 # DeltaSizer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24021446.svg)](https://doi.org/10.5281/zenodo.24021446)
+
 **Mesh, cell-size and time-step planner for CFD, FDS and finite-element simulations.**
 
 <p align="center"><img src="screenshot.png" width="800" alt="DeltaSizer screenshot"></p>
