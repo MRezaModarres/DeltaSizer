@@ -1,0 +1,30 @@
+DeltaSizer — Freeware End-User Licence Agreement
+Copyright (c) 2026 MohammadReza Modarres. All rights reserved.
+
+1. Grant. You may download, install and use DeltaSizer free of charge, for any lawful
+   purpose including academic, educational and commercial engineering work, on any
+   number of computers.
+
+2. Redistribution. You may redistribute unmodified copies of the official installers,
+   provided this licence is included and no fee is charged beyond the cost of the medium.
+
+3. Restrictions. You may not modify, decompile, disassemble or reverse-engineer the
+   software, except to the extent that applicable law expressly permits it, nor sell,
+   rent or sublicense it, nor remove copyright or attribution notices.
+
+4. Citation. If DeltaSizer contributes to published work, please cite it using the
+   citation given in the program (Help > How to cite) or on its Zenodo record.
+
+5. No warranty. The software is provided "as is", without warranty of any kind. Its
+   results are planning estimates based on published correlations and engineering
+   rules of thumb. They do not replace grid and time-step sensitivity studies,
+   verification and validation, or professional engineering judgement. The author is
+   not liable for any damages arising from its use.
+
+6. Third-party components. DeltaSizer uses the Qt for Python (PySide6) libraries under
+   the GNU Lesser General Public License v3 (LGPLv3). The corresponding Qt source code is
+   available from https://download.qt.io and https://code.qt.io. The Qt libraries are
+   shipped as separate files inside the application folder/bundle and may be replaced with
+   compatible versions.
+
+7. Termination. This licence ends automatically if you breach its terms.

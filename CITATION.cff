@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DeltaSizer: mesh, cell-size and time-step planner for CFD, FDS and FEM simulations"
+version: 0.1.0
+doi: 10.5281/zenodo.24021446
+date-released: 2026-11-07
+type: software
+authors:
+  - family-names: Modarres
+    given-names: MohammadReza
+    orcid: "https://orcid.org/0000-0003-4201-0875"
+license-url: "https://github.com/MRezaModarres/DeltaSizer/blob/main/LICENSE.txt"
+repository-code: "https://github.com/MRezaModarres/DeltaSizer"
+keywords: [CFD, mesh, grid resolution, time step, y+, LES, DNS, RANS, FDS, fire simulation, finite element, GCI]
